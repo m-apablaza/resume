@@ -47,4 +47,4 @@ highlight_name: false
 
 #### Mauricio has published articles in PLOS ONE, World Development, Journal of Ethnic and Migration Studies, the Review of Income and Wealth, Social Indicators Research among others. He holds a PhD in Economics from the University of Nottingham and a postdoc at the University of Oxford. His research areas and publications focus on institutions, multidimensionality and poverty dynamics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_Academic_ma_final.pdf" "newtab" >}}resumé{{< /staticref >}}.
