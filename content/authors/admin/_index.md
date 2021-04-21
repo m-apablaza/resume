@@ -1,6 +1,6 @@
 ---
 title: Mauricio Apablaza
-role: Director of Research
+role: Director of Research - School of Government
 bio: My research interests include development economics, poverty dynamics and
   health economics.
 interests:
