@@ -32,7 +32,7 @@ education:
       institution: University of Oxford
       year: 2015
     - course: Phd
-      institution: University of Nothingham
+      institution: University of Nottingham
       year: 2012
     - course: Master in Public Policies
       institution: Universidad del Desarrollo
