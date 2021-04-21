@@ -1,12 +1,12 @@
 ---
 title: Mauricio Apablaza
 role: Director of Research
-bio: My research interests include development economics, poverty and trade
-  dynamics.
+bio: My research interests include development economics, poverty dynamics and
+  health economics.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - development economics
+  - poverty dynamics
+  - health economics
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universidad del Desarrollo
+    url: https://www.udd.cl
 education:
   courses:
     - course: PhD in Artificial Intelligence
