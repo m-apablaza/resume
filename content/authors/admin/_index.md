@@ -4,9 +4,9 @@ role: Director of Research
 bio: My research interests include development economics, poverty dynamics and
   health economics.
 interests:
-  - development economics
-  - poverty dynamics
-  - health economics
+  - Development economics
+  - Poverty dynamics
+  - Health economics
 social:
   - icon: envelope
     icon_pack: fas
