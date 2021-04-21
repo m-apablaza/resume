@@ -1,8 +1,8 @@
 ---
 title: Mauricio Apablaza
 role: Director of Research
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include development economics, poverty and trade
+  dynamics.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
