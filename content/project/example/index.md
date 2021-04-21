@@ -15,6 +15,7 @@ links:
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+  filename: lse-qoe-brand-apr2020-iii-qoe-combined-08.png
 url_code: ""
 ---
 Our research shows that the combined effects of globalisation and deregulation have made employment opportunities more unequal in both developed and developing countries. Both social protection and vocational training systems are fundamental to developing individual capabilities and freedoms, but neither can be sustained if the labour markets that underlie them are too precarious. Multidimensional inequalities exacerbate this process. We believe that there is a significant and positive role that governments and policy makers must play in devising policies which can balance the needs of workers and firms while investing in the long-term common good.
