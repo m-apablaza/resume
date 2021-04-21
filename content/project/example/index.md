@@ -5,7 +5,7 @@ date: 2016-04-27T00:00:00Z
 summary: ""
 url_video: ""
 tags:
-  - Deep Learning
+  - Quality of Employment
 external_link: https://quality-employment.org
 url_slides: ""
 title: Quality of Employment
@@ -13,7 +13,7 @@ links:
   - url: https://quality-employment.org
     name: https://quality-employment.org
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: https://quality-employment.org
   focal_point: Smart
   filename: lse-qoe-brand-apr2020-iii-qoe-combined-08.png
 url_code: ""
